@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Ноутбук Lenovo IdeaPad",
+    "price": 55000,
+    "stock": 12,
+    "category": "Электроника"
+  },
+  {
+    "id": 2,
+    "name": "Смартфон Samsung Galaxy",
+    "price": 42000,
+    "stock": 8,
+    "category": "Электроника"
+  },
+  {
+    "id": 3,
+    "name": "Электрочайник Bosch",
+    "price": 3200,
+    "stock": 25,
+    "category": "Бытовая техника"
+  },
+  {
+    "id": 4,
+    "name": "Микроволновая печь Gorenje",
+    "price": 5000,
+    "stock": 25,
+    "category": "Бытовая техника"
+  }
+]
